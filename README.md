@@ -1,14 +1,37 @@
-Hungry Games
-============
 
-Evolutionary tournaments have been widely used as a tool for comparing strategies, however game theorists are still in need for a
-common tool (application) to conduct complex tournaments. In fact, there still doesn't exist a commonly used application for conducting and analysing complex round-robin and evolutionary tournaments.
-With the help of “Hungry Games” application a user can choose any combination among the given games and strategies and conduct a round robin as well as an evolutionary tournament for a chosen number of rounds. Besides, based on the results of the tournament application automatically
-generates and shows players' average payoff matrix and evolutionary tournament graph.
+<p align="center">
+  <img src="images/icon.png" alt="Hungry Games" width="10%" height="10%"/>
+</p>
+
+<h1>About</h1>
+
+Evolutionary tournaments have been long used as a method for comparing strategies in Multi Agent systems, however, there still doesn't exist a commonly adopted tool for conducting and analysing complex evolutionary/round-robin tournaments. HungryGames is a simple <b>simulator with GUI</b>, written in Python, that allows a user to choose any combination among the given games and strategies and <b>conduct round robin as well as evolutionary tournaments</b> for a specified number of rounds. Based on the results, the application will <b>generate and visualize</b> players' average payoff matrix and evolutionary tournament graph.
+
+<h1>Content</h1>
+This respository containts the Python implementation of the HungryGames application. 
+
+<h1>Installation</h1>
+Just download the files and install the dependencies (PyQT) if required. Please contact me if you face any difficulties with the installation or have any questions/comments regarding the code. 
+
+<h1>Usage</h1>
+To use the application simply run the following command
+
+```
+python hungrygamesmain.py
+```
+which will initiate the GUI.
+
+<h1>Development and Contributions</h1>
+
+Hungry Games is a collaborative project. The future releases of this application will be dedicated to creating more advanced executable and its <b>web-based version</b>, which will allow to <b>add and modify games/strategies dynamically</b>.
+
+You are more than welcome to submit pull requests. Although, if you plan to put a non-trivial amount of work into coding new features, it is recommended that you first contact me. 
+
+<h1>License</h1>
+MIT
+
+<h1>Author</h1>
+Areg Karapetyan
 
 
-DEVELOPMENT
-============
 
-Hungry Games is a collaborative project. You are welcome to submit pull requests although if you plan to put a non-trivial amount of work into coding new features, it is recommended that you first contact me before that. The enhancement of this application will include creating more complex executable and web-based applications, which will allow to add and modify games/strategies
-dynamically.
