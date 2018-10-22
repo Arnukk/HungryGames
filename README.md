@@ -1,4 +1,6 @@
-[Current version]: Beta v0.1
+<h4>A simple simulator with GUI for conducting and analyzing round robin and evolutionary tournaments in Multi Agent Systems </h4>
+<p align="right">[Current version]: Beta v0.1</p>
+<br><br>
 
 <p align="center">
   <img src="images/icon.png" alt="Hungry Games" width="10%" height="10%"/>
@@ -19,7 +21,8 @@ To use the application simply run the following command
 
 ```
 python hungrygamesmain.py
-```
+``` 
+
 which will initiate the GUI.
 
 <h1>Development and Contributions</h1>
