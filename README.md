@@ -1,3 +1,4 @@
+[Current version]: Beta v0.1
 
 <p align="center">
   <img src="images/icon.png" alt="Hungry Games" width="10%" height="10%"/>
